@@ -1,0 +1,7 @@
+https://yeoji.github.io/spritesheet-cutter/
+https://www.spriters-resource.com/nes/legendofzelda/
+https://www.miguelgondu.com/blogposts/2022-05-23/playing_mario_from_latent_space/
+
+grave = (252) , (116)
+forest = (0,168,0) , (252,216,168)
+mnt = (200,76,12) , (252,216,168)

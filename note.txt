@@ -1,0 +1,3 @@
+sprite = 16x16
+screen = 256x176
+tile = 256/16 x 176/16 = 16x11 = 176 tile per schermata
